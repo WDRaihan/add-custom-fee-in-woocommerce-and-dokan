@@ -1,6 +1,6 @@
-Add Custom Fee to WooCommerce checkout. 
-Dokan multivendor supported. 
-Remove the fee from vendor earnings.
+# Add Custom Fee to WooCommerce checkout. 
+## Dokan multivendor supported. Remove the fee from vendor earnings.
+### Fee name: Buyer protection fee
 
 ```php
 
