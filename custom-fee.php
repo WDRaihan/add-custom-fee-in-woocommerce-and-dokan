@@ -1,3 +1,4 @@
+<?php
 /*Adding a field in woocommerce general settings tab to set the fee in percentage*/
 add_filter('woocommerce_general_settings', 'wd_general_settings_shop_phone');
 function wd_general_settings_shop_phone($settings) {
